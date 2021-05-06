@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Hola!
 
-<!--
-**martinvilu/martinvilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Mi nombre es Martín :bowtie:
 
-Here are some ideas to get you started:
+Y soy docente de la Universidad Nacional de Rio Negro, sede Andina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En donde estoy dictando:
+
+ * Taller de Informática para la Escuela de Economicas
+ * Introducción a Ingenieria en Computación
+
+También soy docente en la Universidad Nacional del Comahue
+
+Dictando
+
+* Métodos Computacionales en Ingenieria I para las Ingenierias
+* Informática Educativa para las Matemáticas 
+
+Propulsado por :mate: y avido cicloturista :bike:
