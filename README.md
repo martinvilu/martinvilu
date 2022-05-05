@@ -13,7 +13,7 @@ Aunque mi trabajo principal está la Comisión Nacional de Energía Atómica.
 
 Propulsado por :mate: y avido cicloturista :bike:
 
-######
+###### Aportes en proyectos
 
 He contribuido a la traducción al español en [futurecoder.io](https://futurecoder.io/) y 
 [friendly-traceback](https://github.com/friendly-traceback/friendly-traceback).
