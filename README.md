@@ -6,10 +6,12 @@ Y soy docente de la Universidad Nacional de Rio Negro, sede Andina
 
 ![Badge](https://bit.ly/icom-badge)
 
-##### Dictando:
+#### Dictando:
 
  * Introducción a Ingenieria en Computación 
  * Programación I
+
+[Estos son mis alumnos](alumnos.md)
 
 Utilizando
 
@@ -26,7 +28,9 @@ Aunque mi trabajo principal está la Comisión Nacional de Energía Atómica.
 
 Propulsado por :mate: y avido cicloturista :bike:
 
-##### Contribuciones
+
+
+#### Contribuciones
 
 He aportado a la traducción al español en [futurecoder.io](https://futurecoder.io/) y 
 [friendly-traceback](https://github.com/friendly-traceback/friendly-traceback).
