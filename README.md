@@ -28,7 +28,7 @@ Aunque mi trabajo principal está la Comisión Nacional de Energía Atómica.
 
 Propulsado por :mate: y avido cicloturista :bike:
 
-```mermaidjs
+```mermaid
 stateDiagram-v2
     mate --> bici
     bici  --> mate
