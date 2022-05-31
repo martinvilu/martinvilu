@@ -126,9 +126,25 @@
  * [Jonaa-Herrera](https://github.com/Jonaa-Herrera)
  * [Nikotina-Torres](https://github.com/Nikotina-Torres)
  * [fersoria001](https://github.com/fersoria001)
+ * [mariandilda](https://github.com/mariandilda)
+ * [INeedNoDamsels](https://github.com/INeedNoDamsels)
+ * [agustin-nahuelpan](https://github.com/agustin-nahuelpan)
+ * [vsmaxy](https://github.com/vsmaxy)
+ * [absss03](https://github.com/absss03)
+ * [claaj](https://github.com/claaj)
+ * [valentinjm](https://github.com/valentinjm)
+ * [vlzJuan](https://github.com/vlzJuan)
+ * [naticurual](https://github.com/naticurual)
+ * [Julian03-lab](https://github.com/Julian03-lab)
+ * [kitiievans](https://github.com/kitiievans)
+ * [solmba](https://github.com/solmba)
+ * [facundorodri](https://github.com/facundorodri)
+ * [gascatalan3](https://github.com/gascatalan3)
+ * [Valgold](https://github.com/Valgold)
+ 
  
  _________________
  
- * Actualizado el 17 de mayo del 2022*
+ * Actualizado el 31 de mayo del 2022*
  
  ![Badge](https://bit.ly/icom-badge)
